@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0087/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿彌陀經義述
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1756.xml
+    old_id: T37n1756
+hash: sha256:80719e41f5989ad450d70bb3387f5e5eaa5429431ee192516968d721f7d632e0

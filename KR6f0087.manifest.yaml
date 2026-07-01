@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6f0087/v1
+canonical_location: https://kanripo.org/bkk/KR6f0087/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 阿彌陀經義述
+  identifiers:
+    alt_id:
+    - T37n1756
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1756.xml
+    old_id: T37n1756
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0087_000.yaml, hash: 'sha256:80719e41f5989ad450d70bb3387f5e5eaa5429431ee192516968d721f7d632e0'}
+  - {seq: 1, filename: KR6f0087_001.yaml, hash: 'sha256:10837f30efc68e9ab702d1aaed6dcc6916ceda5c79929bacf2e1206211cf95f0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6f0087_001.markers.yaml, hash: 'sha256:c701ae5dc211db2778a26a842e2ea61dda19ada1a897b24b48ce8222942f04be'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0087_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4204
+  label: 阿彌陀經義述
+  type: juan
+  level: 1
+hash: sha256:0428ca341ca721dfbe913de94dc2702d82894d2fdd22c2b944474ea1207d189d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
