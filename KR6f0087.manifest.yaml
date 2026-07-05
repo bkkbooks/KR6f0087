@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0087_000.yaml, hash: 'sha256:80719e41f5989ad450d70bb3387f5e5eaa5429431ee192516968d721f7d632e0'}
-  - {seq: 1, filename: KR6f0087_001.yaml, hash: 'sha256:10837f30efc68e9ab702d1aaed6dcc6916ceda5c79929bacf2e1206211cf95f0'}
+  - {seq: 1, filename: KR6f0087_001.yaml, hash: 'sha256:9acda18a075f97d0f1fb25b9ef1dc051bebdfd765903c62bacf719b60ae45f70'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0087_001.markers.yaml, hash: 'sha256:c701ae5dc211db2778a26a842e2ea61dda19ada1a897b24b48ce8222942f04be'}
+  - {seq: 0, role: markers, filename: assets/KR6f0087_000.markers.yaml, hash: 'sha256:e46df93c93db4b515c55c3a522e6fc068f052b5a654bb037b44652c0670c8281'}
+  - {seq: 1, role: markers, filename: assets/KR6f0087_001.markers.yaml, hash: 'sha256:846a71c1ea3f5782d3557dffdf3bb40f1bdf86be9e3c5cd91dc0893f4e5d31d6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 阿彌陀經義述
   type: juan
   level: 1
-hash: sha256:0428ca341ca721dfbe913de94dc2702d82894d2fdd22c2b944474ea1207d189d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:accbcb098e31d939474a6a589e071c4d2b8283bff1e5fb2a0789d39a7a50e18a
